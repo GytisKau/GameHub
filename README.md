@@ -35,7 +35,3 @@ $ git pull
 ```
 If you get merge conflicts, google it out idk.
 You may have conflicts with new updates if a person commited something whie you were working
-3. Push your commits to the remote repository
-```Console
-% git push
-```
